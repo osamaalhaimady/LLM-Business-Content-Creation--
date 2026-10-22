@@ -59,7 +59,6 @@ This was a collaborative project involving students from:
 
 - [Research Paper](Research_Paper.pdf)
 - [Project Presentation](Project_Presentation.pptx)
-- [Presentation Script](Presentation_Script.docx)
 
 ## Limitations
 
